@@ -14,7 +14,7 @@ A simple memory card matching game built using **C++ and SFML**.
 2. Install MinGW-w64 for `g++`
 3. Compile:
    ```sh
-   g++ -o game.exe game.cpp -I C:\SFML\include -L C:\SFML\lib -lsfml-graphics -lsfml-window -lsfml-system
+   g++ -o Memory_Card_Matching_Game.exe Memory_Card_Matching_Game.cpp -I C:\SFML\include -L C:\SFML\lib -lsfml-graphics -lsfml-window -lsfml-system
 
 
 ## 🔧 Installation & Setup (Kali Linux)
