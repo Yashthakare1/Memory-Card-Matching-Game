@@ -25,7 +25,7 @@ sudo apt update
 sudo apt install libsfml-dev g++
 
 Step 2: Clone the Repository
-git clone https://github.com/YOUR_USERNAME/Memory-Match-SFML.git
+git clone [https://github.com/Yashthakare1/Memory-Card-Matching-Game.git]
 cd Memory-Match-SFML
 
 Step 3: Compile the Game
