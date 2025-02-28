@@ -25,6 +25,12 @@ sudo apt update
 sudo apt install libsfml-dev g++
 
 
+📸 Screenshots
+
+![Screenshot_2025-02-28_11_44_06](https://github.com/user-attachments/assets/108e7c61-7803-44b8-b608-cb812042fce7)
+
+
+
 
 🎮 How to Play?
 
