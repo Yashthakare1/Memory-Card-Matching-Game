@@ -24,6 +24,16 @@ Ensure you have **SFML** installed on your system:
 sudo apt update
 sudo apt install libsfml-dev g++
 
+Step 2: Clone the Repository
+git clone https://github.com/YOUR_USERNAME/Memory-Match-SFML.git
+cd Memory-Match-SFML
+
+Step 3: Compile the Game
+g++ -o Memory-Card-Matching-Game Memory-Card-Matching-Game.cpp -lsfml-graphics -lsfml-window -lsfml-system
+
+Step 4: Run the Game
+./Memory-Card-Matching-Game
+
 
 📸 Screenshots
 
